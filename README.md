@@ -54,10 +54,14 @@ By addressing the identified bottlenecks and implementing the recommended strate
 
 
 ## File Sturcture
+# Repository Structure
+
+```plaintext
 Supply Chain/
 ├── Data Analysis Report Rubric_Fall_2024.pdf    # Evaluation rubric for the data analysis report
 ├── Raw Data_supply_chain_data.xls               # Raw supply chain data for analysis
 └── Supply Chain Data.xlsx                       # Cleaned dataset for further analysis
+```
 
 
 ## Download Instructions
