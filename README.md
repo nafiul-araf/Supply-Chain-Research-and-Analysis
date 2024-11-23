@@ -67,7 +67,7 @@ Supply Chain/
 ## Download Instructions
 To download this repository, follow these steps:
 
-1. Click the green **Code** button at the top right of this repository (on GitHub or similar platform).
+1. Click the green **Code** button at the top right of this repository.
 2. Select **Download ZIP** from the dropdown menu.
 3. Extract the ZIP file on your local system to access the folder structure and files.
 
