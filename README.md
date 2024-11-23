@@ -53,15 +53,12 @@ This analysis identified critical areas for improvement and provided key operati
 By addressing the identified bottlenecks and implementing the recommended strategies, the organization can improve operational efficiency, enhance customer satisfaction, and achieve long-term profitability. Investing in advanced analytics and data-driven decision-making will provide a competitive edge and unlock future growth opportunities.
 
 
-## File Descriptions
-- **Data Analysis Report Rubric_Fall_2024.pdf**  
-  Contains the evaluation criteria and guidelines for preparing the data analysis report.
+## File Sturcture
+Supply Chain/
+├── Data Analysis Report Rubric_Fall_2024.pdf    # Evaluation rubric for the data analysis report
+├── Raw Data_supply_chain_data.xls               # Raw supply chain data for analysis
+└── Supply Chain Data.xlsx                       # Cleaned dataset for further analysis
 
-- **Raw Data_supply_chain_data.xls**  
-  Includes the raw dataset used for conducting supply chain analysis. This file serves as the primary data source for insights.
-
-- **Supply Chain Data.xlsx**  
-  A processed and refined dataset derived from the raw data, ready for deeper analysis and visualization.
 
 ## Download Instructions
 To download this repository, follow these steps:
