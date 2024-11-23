@@ -54,7 +54,6 @@ By addressing the identified bottlenecks and implementing the recommended strate
 
 
 ## File Sturcture
-# Repository Structure
 
 ```plaintext
 Supply Chain/
